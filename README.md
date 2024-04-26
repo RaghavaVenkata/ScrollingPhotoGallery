@@ -57,7 +57,7 @@ Roadmap:
 How to run code here are steps to follow:
 
 To run this code, you would typically use a JavaScript package manager like npm or yarn to install dependencies and start the development server. Here are the steps you can follow:
-Make sure you have Node.js installed on your system. You can download it from here.
+Make sure you have Node.js installed on your system better to have upgraded version(v20.12.2). You can download it from here.
 Navigate to the directory where your package.json file is located (usually the root directory of your project).
 Open a terminal or command prompt in that directory.
 npm install (or)yarn
